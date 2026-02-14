@@ -1,7 +1,10 @@
 A simple python file to prepare audio files (wavs and mp3s) for training , notably in Ace-Step 2 .
 
 **What will it do ?**
-NB use a copy of the audio files that you want processed in case it goes tits up
+
+**NB use a copy of the audio files that you want processed in case it goes tits up**
+
+
 1.It uses tkinter, so instead of living in the 17th century and using an obscenely long command line, it will open a requestor - you select the folder of audio files that you wish to process
 
 2.It will then rename the files within that folder to their tags like this example : '1.Things That Dreams Are Made Of' -> 'Human League - Things That Dreams Are Made Of'
