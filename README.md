@@ -1,5 +1,9 @@
 A simple python file to prepare audio files (wavs and mp3s) for training , notably in Ace-Step 2 .
 
+**It is provided as-is and the user takes responsibility for due dilgence as to its usage
+**
+
+
 **What will it do ?**
 
 **NB use a copy of the audio files that you want processed in case it goes tits up**
