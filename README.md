@@ -40,7 +40,6 @@ Obtain a Genius api access token and save it in the python file at line 32 (insi
 
 
 
-
 **Installation **
 
 Personally I make a small venv (about 20mb) to run it, to keep it seperate
