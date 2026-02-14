@@ -34,7 +34,9 @@ The renaming and the rechecks give the best chance of returning the correct lyri
 
 What do you need to do ?
 
-Obtain a Genius api access token and save it in the python file at line 32 (inside the inverted commas)
+1. ffmpeg installed to your system with Path added to env variables
+
+2. Obtain a Genius api access token and save it in the python file at line 32 (inside the inverted commas)
 
 <img width="417" height="60" alt="image" src="https://github.com/user-attachments/assets/5002fae0-72ad-4f64-b574-8d790d4bf3ea" />
 
